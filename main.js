@@ -73,4 +73,4 @@ eightBall.shake= function (str, num) {
 };
 
 
-eightBall.shake("shake in like a polaroid picture", 10);
+eightBall.shake("shake it like a polaroid picture", 10);
